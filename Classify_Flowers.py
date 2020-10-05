@@ -32,7 +32,7 @@ def Prepare_Image(main_folder):
             y.append(inner_folder)
 
 
-Prepare_Image("F:/Data Science/DataSet/flowers")
+Prepare_Image("flowers")
 
 #check first image which is pixels
 print(X[0])
