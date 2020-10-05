@@ -4,7 +4,9 @@ use cnn convolutional neural network to classify flowers to 5 classes
 
 ## Getting Started
 
+
 ### Prerequisites
+download flowers dataset from https://www.kaggle.com/alxmamaev/flowers-recognition
 
 ### Installing
  importatnt library 
